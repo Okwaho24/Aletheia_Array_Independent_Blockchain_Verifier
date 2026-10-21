@@ -1,0 +1,16 @@
+# Dependencies
+node_modules/
+.npm/
+
+# Build Outputs
+dist/
+.output/
+.vite/
+
+# Environment & Secrets
+.env
+.env.local
+
+# OS Files
+.DS_Store
+Thumbs.db
